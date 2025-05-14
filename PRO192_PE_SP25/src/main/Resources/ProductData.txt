@@ -1,0 +1,5 @@
+P001,Apple,Fruit,50,1.2,01/03/2025
+P002,Banana,Fruit,30,0.5,12/12/2024
+P003,LapTop,Electronics,10,500.0,15/08/2024
+P004,Samsung,Electronics,20,400.0,15/04/2024
+P005,Phone,Electronics,40,200.0,27/09/2024
